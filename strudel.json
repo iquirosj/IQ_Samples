@@ -1,0 +1,6 @@
+{
+ "_base": "https://github.com/iquirosj/IQ_Samples.git",
+  "bassdrum":"bd.wav",
+  "hihat":"hh.wav"
+  "kick":"kick.wav"
+}
